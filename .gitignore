@@ -50,3 +50,4 @@ contracts/cache
 
 # Coverage
 lcov.info
+.env
